@@ -27,7 +27,7 @@
 
 4.啟動專案
 
-    在 Terminal 輸入 npm run dev
+    在 Terminal 輸入 npm run start
 
 ## 環境建置與需求
 * Font-awesome 5.8.1
